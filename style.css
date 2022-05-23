@@ -1,0 +1,9 @@
+*{
+    background-color: yellow;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+    font-size: large;
+}
